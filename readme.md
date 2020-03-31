@@ -10,7 +10,7 @@ _This is a simple mock website that would be great for local bands just starting
 
 ## Setup/Installation Requirements
 
-* None. Please navigate to (){} to see the live page on Git Hub pages.
+* None. Please navigate to [Dysfunctional Dreams Band](chriskorsak.github.io/band-website) to see the live page on Git Hub pages.
 
 ## Known Bugs
 
