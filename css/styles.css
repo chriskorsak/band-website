@@ -1,3 +1,8 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 1%;
+}
+
 img {
   width: 400px;
   float: right;
@@ -11,10 +16,18 @@ aside {
   margin-right: 1%;
 }
 
-nav li {
+main {
+  width: 85%;
+}
+
+nav a {
   display: inline-block;
-  width: 150px;
-  background-color: red;
+  width: 120px;
+  height: 40px;
   text-align: center;
-  list-style-type: none;
+  text-decoration: none;
+}
+
+nav a:link, nav a:visited {
+  background-color: #ec2c39;
 }
