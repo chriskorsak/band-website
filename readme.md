@@ -1,4 +1,4 @@
-# _Disfunctional Dreams Band (Mock Website)_
+# _Dysfunctional Dreams Band (Mock Website)_
 
 #### _This is a simple mock website for a fictional band, March 30, 2020_
 
