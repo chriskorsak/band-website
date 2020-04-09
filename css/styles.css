@@ -41,3 +41,22 @@ nav a:link, nav a:visited {
 nav a:hover, nav a:active {
   background-color: #af2029;
 }
+
+table {
+  width: 55%;
+}
+
+tr {
+  background-color: rgb(235, 235, 235);
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+  background-color: rgb(220, 220, 220);
+}
+
+td, th {
+  padding: 3px;
+}
+
